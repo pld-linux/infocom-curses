@@ -7,9 +7,9 @@ Version:	951024
 Release:	1
 License:	free
 Group:		Applications/Games
-Source0:	%{_name}.z5
+Source0:	ftp://ftp.ifarchive.org/if-archive/games/zcode/%{_name}.z5
 # Source0-md5:	f06a42a29a5a4e6aa70958c9ae4c37cd
-URL:		http://www.ifarchive.com/
+URL:		http://www.ifarchive.org/
 Requires:	frotz
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
@@ -27,16 +27,10 @@ ages, and all its Curses...
 
 ...could it be that even you are Cursed?
 
-%description -l pl
-Zaraz przet³umaczê.
-
 %prep
-
-%build
 
 %install
 rm -rf $RPM_BUILD_ROOT
-
 install -d $RPM_BUILD_ROOT%{_bindir}
 install -d $RPM_BUILD_ROOT%{_datadir}/games/zcode
 
