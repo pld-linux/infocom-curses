@@ -1,5 +1,4 @@
 %define		_name		curses
-
 Summary:	Infocom text game - Curses
 Summary(pl):	Tekstówka Infocomu - Curses
 Name:		infocom-curses
@@ -28,16 +27,17 @@ ages, and all its Curses...
 ...could it be that even you are Cursed?
 
 %description -l pl
-
 Gdy "Curses" siê zaczyna, grzebiesz na strychu swojego domu
 rodzinnego, szukaj±c starego wystrzêpionego planu Pary¿a (jutro
 wyje¿d¿asz na wakacje) i w zasadzie chcesz unikn±æ ca³ego tego
-pakowania. Ciocia Jemima hoduje w doniczkach stokrotki i <sulking>;
+pakowania. Ciocia Jemima hoduje w doniczkach stokrotki i d±sa siê;
 strych jest pe³en niekoñcz±cych siê rozrywek i tajemnic; mity greckie,
 horoskopy, polityka VI wieku, zupe³nie nieprzydatny demon, tajemniczy
 rysunek bomby, fotografie, obrzêdy, poezja i marzenie, by wszystko
-znalaz³o siê ci na drodze; i w jaki¶ sposób twoja rodzina przypomina
-ci o sobie poprzez wieki...
+znalaz³o siê ci na drodze; i w jaki¶ sposób co¶ ci przypomina o twojej
+rodzinie poprzez wieki i o tych wszystkich przeklêciach...
+
+...czy to mo¿liwe, ¿e nawet ty jeste¶ przeklêty?
 
 %prep
 
