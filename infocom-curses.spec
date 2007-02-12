@@ -1,6 +1,6 @@
 %define		_name		curses
 Summary:	Infocom text game - Curses
-Summary(pl):	Tekstówka Infocomu - Curses
+Summary(pl.UTF-8):   TekstÃ³wka Infocomu - Curses
 Name:		infocom-curses
 Version:	951024
 Release:	2
@@ -26,18 +26,18 @@ ages, and all its Curses...
 
 ...could it be that even you are Cursed?
 
-%description -l pl
-Gdy "Curses" siê zaczyna, grzebiesz na strychu swojego domu
-rodzinnego, szukaj±c starego wystrzêpionego planu Pary¿a (jutro
-wyje¿d¿asz na wakacje) i w zasadzie chcesz unikn±æ ca³ego tego
-pakowania. Ciocia Jemima hoduje w doniczkach stokrotki i d±sa siê;
-strych jest pe³en niekoñcz±cych siê rozrywek i tajemnic; mity greckie,
-horoskopy, polityka VI wieku, zupe³nie nieprzydatny demon, tajemniczy
-rysunek bomby, fotografie, obrzêdy, poezja i marzenie, by wszystko
-znalaz³o siê ci na drodze; i w jaki¶ sposób co¶ ci przypomina o twojej
-rodzinie poprzez wieki i o tych wszystkich przeklêciach...
+%description -l pl.UTF-8
+Gdy "Curses" siÄ™ zaczyna, grzebiesz na strychu swojego domu
+rodzinnego, szukajÄ…c starego wystrzÄ™pionego planu ParyÅ¼a (jutro
+wyjeÅ¼dÅ¼asz na wakacje) i w zasadzie chcesz uniknÄ…Ä‡ caÅ‚ego tego
+pakowania. Ciocia Jemima hoduje w doniczkach stokrotki i dÄ…sa siÄ™;
+strych jest peÅ‚en niekoÅ„czÄ…cych siÄ™ rozrywek i tajemnic; mity greckie,
+horoskopy, polityka VI wieku, zupeÅ‚nie nieprzydatny demon, tajemniczy
+rysunek bomby, fotografie, obrzÄ™dy, poezja i marzenie, by wszystko
+znalazÅ‚o siÄ™ ci na drodze; i w jakiÅ› sposÃ³b coÅ› ci przypomina o twojej
+rodzinie poprzez wieki i o tych wszystkich przeklÄ™ciach...
 
-...czy to mo¿liwe, ¿e nawet ty jeste¶ przeklêty?
+...czy to moÅ¼liwe, Å¼e nawet ty jesteÅ› przeklÄ™ty?
 
 %prep
 
