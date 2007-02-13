@@ -1,6 +1,6 @@
 %define		_name		curses
 Summary:	Infocom text game - Curses
-Summary(pl.UTF-8):   Tekstówka Infocomu - Curses
+Summary(pl.UTF-8):	Tekstówka Infocomu - Curses
 Name:		infocom-curses
 Version:	951024
 Release:	2
